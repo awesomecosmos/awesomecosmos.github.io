@@ -1,6 +1,6 @@
 ---
 title: "Senior Thesis Project in Astrophysics"
-excerpt: "Senior Thesis Project in Astrophysics<br/><img src='/images/500x300.png'>"
+excerpt: "Senior Thesis Project in Astrophysics<br/><img src='/images/astr480_poster_a0.jpg'>"
 collection: portfolio
 ---
 
