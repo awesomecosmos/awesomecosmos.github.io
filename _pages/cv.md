@@ -17,8 +17,8 @@ Education
 Up-To-Date CV
 ======
 
-<object data="../files/paper1.pdf" type="application/pdf" width="700px" height="700px">
-<!--<embed src="../files/paper1.pdf">-->
-<p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/paper1.pdf"> Aayushi's CV </a>.</p>
+<object data="../files/cv_aayushi_verma_jan2022.pdf" type="application/pdf" width="700px" height="700px">
+<!--<embed src="../files/cv_aayushi_verma_jan2022.pdf">-->
+<p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/cv_aayushi_verma_jan2022.pdf"> Aayushi's CV </a>.</p>
 <!--</embed>-->
 </object>
