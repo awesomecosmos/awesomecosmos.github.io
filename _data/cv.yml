@@ -2,31 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Aayushi Verma
     - name: Date of Birth
-      value: 14th March 1879
+      value: 
     - name: Languages
-      value: English, German
+      value: 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science (in progress)
+      institution: University of Connecticut, CT, USA
+      year: 2024 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+         - started Fall 2024.
+        - title: 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            #- Sub-description 1.
+            #- Sub-description 2.
+    - title: MS in Data Science
+      institution: Pace University, NY (online program)
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
+    - title: BSc in Astronomy
+      institution: University of Canterbury, New Zealand
+      year: 2018 - 2021
+      description:
 
 - title: Experience
   type: time_table
