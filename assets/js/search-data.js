@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-passed-my-phd-qualifying-exam-sparkles-smile",
+          title: 'I passed my PhD Qualifying Exam!!! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-won-my-department-s-prize-in-the-uconn-college-of-engineering-poster-competition",
+          title: 'I won my Department’s prize in the UConn College of Engineering poster competition!...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-honored-to-recieve-predoctoral-honorable-mention-from-uconn-dept-of-comp-sci-and-synchrony-fellowship-for-fall-2025",
+          title: 'Honored to recieve: Predoctoral Honorable Mention from UConn Dept. of Comp. Sci, and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
