@@ -262,7 +262,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Verma]
-  first_name: [Aayushi, A.]
+  first_name: ["Aayushi", "A.", "Aayushi A.", "A. A."]
 
   style: apa
   locale: en
