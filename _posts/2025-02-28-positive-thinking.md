@@ -3,6 +3,7 @@ layout: post
 title: On the Power of Positive Thinking
 date: 2025-02-28 08:30:00
 description: A few days ago, I was pondering whether the (metaphorical) glass is half-empty, or full.
+thumbnail: assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg
 tags: random
 categories: philosophy
 featured: true

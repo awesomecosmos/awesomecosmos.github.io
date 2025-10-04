@@ -3,6 +3,7 @@ layout: post
 title: What I Learned From My First Poster Competition
 date: 2025-03-12 16:40:16
 description: I recently participated in my university's College of Engineering Annual Poster Competition, and won 1st place for my department (Department of Computer Science and Engineering)!
+thumbnail: assets/img/2025-03-15-poster-comp/IMG_6507.jpg
 tags: conferences data-visualization
 categories: science-communication
 featured: true
