@@ -118,6 +118,28 @@ ninja.data = [{
             window.location.href = "/blog/2023/rshiny-stackexchange-analysis/";
           
         },
+      },{id: "post-wonders-of-the-night-sky-this-month-april",
+        
+          title: "Wonders of the Night Sky This Month - April",
+        
+        description: "Hello readers! It has been a difficult past month for most of the world, with the Covid-19 pandemic growing. Most of us are in isolation, or as is the case in New Zealand, a mandatory lockdown, to prevent further spread of the virus and to protect ourselves and others. Hopefully, you are all keeping safe!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/night-sky-apr2020/";
+          
+        },
+      },{id: "post-wonders-of-the-night-sky-this-month-january",
+        
+          title: "Wonders of the Night Sky This Month - January",
+        
+        description: "Happy New Year 2020! As we enter the new year, we do so with our eyes up to the sky. This decade brings with it more exciting advances in the field of astronomy to look forward to.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/night-sky-jan2020/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
