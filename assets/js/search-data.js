@@ -96,6 +96,28 @@ ninja.data = [{
             window.location.href = "/blog/2024/spacecom-conference-2024/";
           
         },
+      },{id: "post-my-experience-attending-present-your-science-workshop",
+        
+          title: "My Experience Attending ‘Present Your Science’ Workshop",
+        
+        description: "I recently had the pleasure of attending a ‘Present Your Science’ workshop hosted by Melissa Marshall. Marshall is a prolific speaker who has given a TED talk, and now runs her own business, Present Your Science, to disseminate her teachings and best practices on giving scientific presentations. In this post, I will share some of my key takeaways on giving successful presentations to diverse audiences.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/present-your-science/";
+          
+        },
+      },{id: "post-an-analysis-of-the-stack-exchange-network-through-an-interactive-rshiny-web-app",
+        
+          title: "An Analysis of the Stack Exchange Network, Through an Interactive RShiny Web App...",
+        
+        description: "Stack Overflow is one of the most well-known websites for coders. It is a community-driven forum for asking and answering questions about coding, programming, software engineering, etc. The Stack Overflow website is just one community out of many, all of which are hosted by the Stack Exchange network.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/rshiny-stackexchange-analysis/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
