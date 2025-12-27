@@ -52,6 +52,50 @@ ninja.data = [{
             window.location.href = "/blog/2025/positive-thinking/";
           
         },
+      },{id: "post-exploring-old-town-alexandria",
+        
+          title: "Exploring Old Town Alexandria",
+        
+        description: "I recently made a vlog about my day out in Old Town, Alexandria, Virginia.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/exploring-old-town-alexandria/";
+          
+        },
+      },{id: "post-i-watched-the-april-2024-solar-eclipse",
+        
+          title: "I Watched The April 2024 Solar Eclipse!",
+        
+        description: "On Monday 8th April, 2024, I witnessed an incredible thing - a total solar eclipse.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/apr2024-solar-eclipse/";
+          
+        },
+      },{id: "post-tableau-conference-2023-my-experience",
+        
+          title: "Tableau Conference 2023 - My Experience",
+        
+        description: "As a data scientist, I use Tableau a lot to make interactive dashboards for my business stakeholders to consume key insights.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/tableau-conference-2023/";
+          
+        },
+      },{id: "post-spacecom-expo-2024-my-experience",
+        
+          title: "SpaceCom Expo 2024 - My Experience",
+        
+        description: "Last week, I attended the SpaceCom Expo and Conference in Orlando, Florida. In this article, I talk about the conference, my experiences, and some other fun things I did in Florida!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/spacecom-conference-2024/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
