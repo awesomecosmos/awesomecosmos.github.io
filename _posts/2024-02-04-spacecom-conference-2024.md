@@ -3,7 +3,7 @@ layout: post
 title: SpaceCom Expo 2024 - My Experience
 date: 2024-02-04 08:30:00
 description: Last week, I attended the SpaceCom Expo and Conference in Orlando, Florida. In this article, I talk about the conference, my experiences, and some other fun things I did in Florida!
-thumbnail: assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg
+thumbnail: assets/img/2024-02-04-spacecom-conference-2024/4.jpg
 tags: conferences, space
 categories: 
 featured: false
@@ -13,7 +13,7 @@ Last week, I attended the [SpaceCom Expo and Conference](https://www.spacecomexp
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ Last week, I attended the [SpaceCom Expo and Conference](https://www.spacecomexp
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -49,7 +49,7 @@ I attended the Space Mobility conference and the SpaceCom \| Space Congress conf
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -81,7 +81,7 @@ Below are some quotes from the talks and panels which I found memorable.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -114,7 +114,7 @@ Some more memorable quotes from today’s speakers:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/5.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -142,7 +142,7 @@ There were over 200 exhibitors at the expo from every part of the industry. Ther
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/6.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -164,7 +164,7 @@ This was my first time visiting Florida, and when I learned that Universal Studi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/7.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -175,7 +175,7 @@ I bought a ‘2-park, 2-day + 2 days free’ pass to visit [Universal Studios](h
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/8.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -186,7 +186,7 @@ I bought a ‘2-park, 2-day + 2 days free’ pass to visit [Universal Studios](h
   
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/9.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -197,7 +197,7 @@ I bought a ‘2-park, 2-day + 2 days free’ pass to visit [Universal Studios](h
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/10.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -208,7 +208,7 @@ I bought a ‘2-park, 2-day + 2 days free’ pass to visit [Universal Studios](h
   
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/11.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -219,7 +219,7 @@ Universal Studios isn’t the only fun thing I did in Florida, I also visited th
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/12.jpg.jpeg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -230,7 +230,7 @@ In the KSC Visitor Complex, I learned about the history of launches from here, i
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/13.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -241,7 +241,7 @@ Overall I really enjoyed my visit to KSC and learning about NASA’s great histo
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/14.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
