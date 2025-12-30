@@ -4,8 +4,8 @@ title: An Analysis of the Stack Exchange Network, Through an Interactive RShiny 
 date: 2023-03-16 08:30:00
 description: Stack Overflow is one of the most well-known websites for coders. It is a community-driven forum for asking and answering questions about coding, programming, software engineering, etc. The Stack Overflow website is just one community out of many, all of which are hosted by the Stack Exchange network.
 thumbnail: assets/img/2023-03-16-rshiny-stackexchange-analysis/1.png
-tags: data-science
-categories: 
+tags: data-visualization
+categories: data-science
 featured: false
 ---
 

@@ -4,8 +4,8 @@ title: My Experience Attending ‘Present Your Science’ Workshop
 date: 2024-01-20 08:30:00
 description: I recently had the pleasure of attending a ‘Present Your Science’ workshop hosted by Melissa Marshall. Marshall is a prolific speaker who has given a TED talk, and now runs her own business, Present Your Science, to disseminate her teachings and best practices on giving scientific presentations. In this post, I will share some of my key takeaways on giving successful presentations to diverse audiences.
 thumbnail: assets/img/2024-01-20-present-your-science/close-up-people-business-meeting.jpeg
-tags: scientific-communication
-categories: 
+tags: 
+categories: science-communication
 featured: false
 ---
 

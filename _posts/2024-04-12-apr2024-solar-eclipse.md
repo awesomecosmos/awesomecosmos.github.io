@@ -4,8 +4,8 @@ title: I Watched The April 2024 Solar Eclipse!
 date: 2024-04-12 08:30:00
 description: On Monday 8th April, 2024, I witnessed an incredible thing - a total solar eclipse.
 thumbnail: assets/img/2024-04-04-solar-eclipse/IMG_9526.jpg
-tags: travel, astronomy
-categories: 
+tags: 
+categories: astronomy-space, travel, science-communication
 featured: false
 ---
 

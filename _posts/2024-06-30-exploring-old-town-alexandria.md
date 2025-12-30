@@ -4,8 +4,8 @@ title: Exploring Old Town Alexandria
 date: 2024-06-30 08:30:00
 description: I recently made a vlog about my day out in Old Town, Alexandria, Virginia.
 thumbnail: assets/img/2024-06-30-exploring-old-town-alexandria/thumbnail_prep.jpg
-tags: travel
-categories: 
+tags: 
+categories: travel
 featured: false
 ---
 
