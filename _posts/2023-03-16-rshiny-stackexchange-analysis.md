@@ -3,13 +3,22 @@ layout: post
 title: An Analysis of the Stack Exchange Network, Through an Interactive RShiny Web App
 date: 2023-03-16 08:30:00
 description: Stack Overflow is one of the most well-known websites for coders. It is a community-driven forum for asking and answering questions about coding, programming, software engineering, etc. The Stack Overflow website is just one community out of many, all of which are hosted by the Stack Exchange network.
-thumbnail: assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg
+thumbnail: assets/img/2023-03-16-rshiny-stackexchange-analysis/1.png
 tags: data-science
 categories: 
 featured: false
 ---
 
 Stack Overflow is one of the most well-known websites for coders. It is a community-driven forum for asking and answering questions about coding, programming, software engineering, etc. The [Stack Overflow](https://stackoverflow.com/) website is just one community out of many, all of which are hosted by the [Stack Exchange network](https://stackexchange.com/).
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2023-03-16-rshiny-stackexchange-analysis/1.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    StackOverflow logo. Source: StackOverflow.
+</div>
 
 I like browsing through numerous Stack Exchange websites to see the questions people are asking, and how community experts answer them. Some of my favorite Stack Exchange websites include [academia](https://academia.stackexchange.com/), [astronomy](https://astronomy.stackexchange.com/), [data science](https://datascience.stackexchange.com/), and more. Of course, this doesn’t include my all-time favorite, Stack Overflow, for when I get stuck on coding problems!
 
@@ -20,7 +29,7 @@ I used R to do the analysis, and display it interactively using the Shiny framew
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-03-16-rshiny-stackexchange-analysis/2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +43,7 @@ Let’s do a case study! We’ll look at data from the Data Science Stack Exchan
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-03-16-rshiny-stackexchange-analysis/3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -44,7 +53,7 @@ Why is there a decrease in the number of posts tagged with *machine-learning*? L
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-03-16-rshiny-stackexchange-analysis/4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -52,7 +61,7 @@ This graph shows the top 10 tags over time. The tag *machine-learning* dominates
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-03-16-rshiny-stackexchange-analysis/5.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -64,7 +73,7 @@ The default filtering options set the time range from Jan 1 2021 to Dec 17 2022 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-03-16-rshiny-stackexchange-analysis/6.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -72,7 +81,7 @@ In the same date range, we also see the average differences between question dat
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2023-03-16-rshiny-stackexchange-analysis/7.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
