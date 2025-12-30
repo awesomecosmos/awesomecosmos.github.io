@@ -3,7 +3,7 @@ layout: post
 title: Exploring Old Town Alexandria
 date: 2024-06-30 08:30:00
 description: I recently made a vlog about my day out in Old Town, Alexandria, Virginia.
-thumbnail: assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg
+thumbnail: assets/img/2024-06-30-exploring-old-town-alexandria/thumbnail_prep.jpg
 tags: travel
 categories: 
 featured: false
@@ -11,7 +11,9 @@ featured: false
 
 I recently [made a vlog](https://www.youtube.com/watch?v=lZbwKWJy8no&feature=youtu.be) about my day out in Old Town, Alexandria, Virginia. Having spent almost two years living in Alexandria, I am quite familiar with Old Town and its historic charm. In this article, I go into more detail about Old Town, and the places I visited in my vlog, in order!
 
-TODO: embed vlog here!
+<div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/watch?v=lZbwKWJy8no&t=2s" class="img-fluid rounded z-depth-1" %}
+</div>
 
 The Old Town historic district in Alexandria, Virginia is a vibrant and charming area filled with historical landmarks, cozy coffee shops, great cuisine and dining, and unique experiences. Here are the highlights from my vlog:
 
@@ -20,7 +22,7 @@ From where I lived in Alexandria, there are several ways to get to Old Town: dri
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/mw1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -32,7 +34,7 @@ This is where the MW1 drops me off, and loops around to continue its circuit. [B
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/braddock.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -44,7 +46,7 @@ I needed to get [Global Forever Stamps](https://www.usps.com/international/first
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/usps.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,7 +58,7 @@ This is one of my [all-time favorite coffeeshops](https://mishascoffee.com/) in 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/mishas.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -68,7 +70,7 @@ This is one of my [all-time favorite coffeeshops](https://mishascoffee.com/) in 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/lilys.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -80,7 +82,7 @@ This is one of my [all-time favorite coffeeshops](https://mishascoffee.com/) in 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/farmers_market.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -92,7 +94,7 @@ This is my [favorite library in Alexandria](https://alexlibraryva.org/barrett). 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/library.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -104,7 +106,7 @@ This is a very unique and cultural coffeeshop experience in Old Town! It’s a [
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/turkish_coffee_lady.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -116,7 +118,7 @@ This is a very unique and cultural coffeeshop experience in Old Town! It’s a [
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/apothecary.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -128,7 +130,7 @@ The [Visitor Center](https://visitalexandria.com/plan/visitor-center/) is a grea
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/historical_landmark.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -140,7 +142,7 @@ I was walking around the streets, killing time until my timed tour for the Stabl
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/art_gallery.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -155,7 +157,7 @@ This is one of my [favorite restaurants](https://maithai.com/oldtown/) in Old To
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/mai_thai.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -167,7 +169,7 @@ Next, for dessert, we walked right across the street to [Pop’s Old-Fashioned I
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/ice_cream.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -179,7 +181,7 @@ Since we were all very full from dinner and ice cream, we decided to walk around
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/waterfront_art.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -191,7 +193,7 @@ Finally, continuing along the Waterfront, I got a timelapse of the [boat dock](h
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-06-30-exploring-old-town-alexandria/waterfront_dock.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
