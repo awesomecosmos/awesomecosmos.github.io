@@ -4,8 +4,8 @@ title: Tableau Conference 2023 - My Experience
 date: 2024-02-19 08:30:00
 description: As a data scientist, I use Tableau a lot to make interactive dashboards for my business stakeholders to consume key insights.
 thumbnail: assets/img/2024-02-19-tableau-conference-2023/love_data.png
-tags: conferences, data-visualization
-categories: data-science, travel
+tags: conferences data-visualization
+categories: data-science travel
 featured: false
 ---
 

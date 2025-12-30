@@ -5,7 +5,7 @@ date: 2024-02-04 08:30:00
 description: Last week, I attended the SpaceCom Expo and Conference in Orlando, Florida. In this article, I talk about the conference, my experiences, and some other fun things I did in Florida!
 thumbnail: assets/img/2024-02-04-spacecom-conference-2024/4.jpg
 tags: conferences
-categories: astronomy-space, travel
+categories: astronomy-space travel
 featured: false
 ---
 
