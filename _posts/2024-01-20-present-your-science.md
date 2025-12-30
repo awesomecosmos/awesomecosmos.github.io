@@ -3,7 +3,7 @@ layout: post
 title: My Experience Attending ‘Present Your Science’ Workshop
 date: 2024-01-20 08:30:00
 description: I recently had the pleasure of attending a ‘Present Your Science’ workshop hosted by Melissa Marshall. Marshall is a prolific speaker who has given a TED talk, and now runs her own business, Present Your Science, to disseminate her teachings and best practices on giving scientific presentations. In this post, I will share some of my key takeaways on giving successful presentations to diverse audiences.
-thumbnail: assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg
+thumbnail: assets/img/2024-01-20-present-your-science/close-up-people-business-meeting.jpeg
 tags: scientific-communication
 categories: 
 featured: false
@@ -15,7 +15,7 @@ I recently had the pleasure of attending a ‘Present Your Science’ workshop h
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-01-20-present-your-science/2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,7 +56,7 @@ We will almost always encounter diverse audiences, in the sense that their backg
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-01-20-present-your-science/3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -77,7 +77,7 @@ Another way to deal with excessive technical detail is to filter and prioritize 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-01-20-present-your-science/4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
