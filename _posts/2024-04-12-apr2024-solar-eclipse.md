@@ -3,7 +3,7 @@ layout: post
 title: I Watched The April 2024 Solar Eclipse!
 date: 2024-04-12 08:30:00
 description: On Monday 8th April, 2024, I witnessed an incredible thing - a total solar eclipse.
-thumbnail: assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg
+thumbnail: assets/img/2024-04-04-solar-eclipse/IMG_9526.jpg
 tags: travel, astronomy
 categories: 
 featured: false
@@ -11,7 +11,9 @@ featured: false
 
 On Monday 8th April, 2024, I witnessed an incredible thing: a total solar eclipse. There are no words for this experience, and yet in this article, I’ll find them and describe just how amazing it was! I also recorded a [vlog](https://www.youtube.com/watch?v=UbGUfmDSVyg&feature=youtu.be) narrating my live experiences watching the solar eclipse!
 
-TODO: embed vlog here!
+<div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid path="https://www.youtube.com/watch?v=UbGUfmDSVyg" class="img-fluid rounded z-depth-1" %}
+</div>
 
 The last time there was a total solar eclipse visible from North America, [it was 2017](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017). I was in New Zealand at the time, so I missed out. I consoled myself with the fact that the next solar eclipse was in 2024 – 7 years later – and that I’d make sure not to miss it that time.
 
@@ -19,7 +21,7 @@ Fast-forward to 2024, the time has come for the solar eclipse, and the path of 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-04-04-solar-eclipse/solar_eclipse_screencaps.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +36,7 @@ In preparation for this trip, I ordered [this 10-pack of eclipse viewing glasses
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-04-04-solar-eclipse/IMG_9275.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -47,7 +49,7 @@ On the [morning of Monday 8th, it was totally clouded over](https://www.youtube.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-04-04-solar-eclipse/IMG_9515.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -58,7 +60,7 @@ We set up shop in a corner of the park, and I set up my tripod and phone, ready 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-04-04-solar-eclipse/author.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -75,7 +77,7 @@ In Cleveland, [these were the key eclipse-viewing times](https://www.clevelandme
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-04-04-solar-eclipse/IMG_9563.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -90,7 +92,7 @@ As the Moon started eclipsing the Sun closer to 100% during totality, I saw the 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-04-04-solar-eclipse/IMG_9560.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -99,7 +101,7 @@ As the Moon started eclipsing the Sun closer to 100% during totality, I saw the 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-04-04-solar-eclipse/IMG_9563.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -126,7 +128,7 @@ Here’s to the next solar eclipse!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-04-04-solar-eclipse/IMG_9430-2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
