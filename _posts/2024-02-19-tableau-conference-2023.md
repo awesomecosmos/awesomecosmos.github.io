@@ -3,7 +3,7 @@ layout: post
 title: Tableau Conference 2023 - My Experience
 date: 2024-02-19 08:30:00
 description: As a data scientist, I use Tableau a lot to make interactive dashboards for my business stakeholders to consume key insights.
-thumbnail: assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg
+thumbnail: assets/img/2024-02-19-tableau-conference-2023/love_data.png
 tags: conferences, data-science
 categories: 
 featured: false
@@ -15,7 +15,7 @@ As a data scientist, I use [Tableau](https://www.tableau.com/) a lot to make int
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/love_data.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ As a data scientist, I use [Tableau](https://www.tableau.com/) a lot to make int
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/tableau_dashboard.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,7 +37,7 @@ Tableau is a business intelligence software for making interactive dashboards. I
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/conf1.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +48,7 @@ Tableau is a business intelligence software for making interactive dashboards. I
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/conf_register.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -61,7 +61,7 @@ As a result, I really had to focus on what exactly I wanted to accomplish by att
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/conf_schedule.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -74,7 +74,7 @@ At the time of attending the conference, I was working on building a Tableau das
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/conf2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -85,7 +85,7 @@ I also attended sessions about the art of data visualization and best practices,
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/conf3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -96,7 +96,7 @@ The session that amazed me the most was the IronViz Competition, where three com
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/conf4.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -121,7 +121,7 @@ Organizing large conferences is not an easy task, and I truly respect the organi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/love_data2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -132,7 +132,7 @@ In terms of my goal for attending the conference, which was to learn about using
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/conf_merch.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -143,7 +143,7 @@ In terms of my goal for attending the conference, which was to learn about using
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/vegas1.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -154,7 +154,7 @@ This was my first time visiting Las Vegas, so I was very excited! I stayed at th
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-03-15-poster-comp/54378380691_60fa0ec35c_c.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/vegas2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -163,7 +163,7 @@ This was my first time visiting Las Vegas, so I was very excited! I stayed at th
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-03-15-poster-comp/54378380691_60fa0ec35c_c.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/vegas3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -174,7 +174,7 @@ I also had the chance to visit the Hoover Dam, where I walked across the [Mike O
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2025-03-15-poster-comp/54378380691_60fa0ec35c_c.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-19-tableau-conference-2023/vegas4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
