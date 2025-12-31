@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Find my CV here!",
+          description: "Find my CV here - click the pdf icon to the right!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -140,6 +140,83 @@ ninja.data = [{
             window.location.href = "/blog/2020/night-sky-jan2020/";
           
         },
+      },{id: "post-how-far-we-39-ve-come",
+        
+          title: "How Far We&#39;ve Come",
+        
+        description: "In this article written for Day Seven of World Space Week 2019, I write a short piece about how far we have come from the first days of lunar exploration.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/how-far-weve-come/";
+          
+        },
+      },{id: "post-moons-of-other-planets",
+        
+          title: "Moons of Other Planets",
+        
+        description: "In this article written for Day Six of World Space Week 2019, I write a short piece about the moons of other planets.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/moons-of-other-planets/";
+          
+        },
+      },{id: "post-back-to-the-moon",
+        
+          title: "Back To The Moon",
+        
+        description: "In this article written for Day Five of World Space Week 2019, I write a short piece about us going back to the Moon on manned missions.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/back-to-the-moon/";
+          
+        },
+      },{id: "post-chandrayaan",
+        
+          title: "Chandrayaan",
+        
+        description: "In this article written for Day Four of World Space Week 2019, I write a short piece about the Chandrayan missions.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/chandrayaan/";
+          
+        },
+      },{id: "post-moon-landings",
+        
+          title: "Moon Landings",
+        
+        description: "In this article written for Day Three of World Space Week 2019, I write a short piece about the Apollo Moon landings. This year marks the 50th anniversary of the first manned moon landing back in July 1969.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/moon-landings/";
+          
+        },
+      },{id: "post-tonight-in-the-sky-sat-5th-oct",
+        
+          title: "Tonight In The Sky - Sat 5th Oct",
+        
+        description: "In this article written for Day Two of World Space Week 2019, I write a short piece about what you can observe tonight in the sky, as not only is it World Space Week Day Two, but it is also International Observe the Moon Day.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/nightsky-today/";
+          
+        },
+      },{id: "post-features-of-the-moon",
+        
+          title: "Features of the Moon",
+        
+        description: "In this article written for Day One of World Space Week 2019, I write a short piece about the features of the moon, as this year’s theme for World Space Week is ‘Lunar Theme’.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/moon-features/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -154,7 +231,12 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-honored-to-recieve-predoctoral-honorable-mention-from-uconn-dept-of-comp-sci-and-synchrony-fellowship-for-fall-2025",
-          title: 'Honored to recieve: Predoctoral Honorable Mention from UConn Dept. of Comp. Sci, and...',
+          title: 'Honored to recieve Predoctoral Honorable Mention from UConn Dept. of Comp. Sci, and...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-featured-in-uconn-enhance-career-readiness-blog",
+          title: 'Featured in UConn Enhance Career Readiness blog!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
