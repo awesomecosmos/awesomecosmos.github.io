@@ -28,4 +28,6 @@ I am Aayushi Verma, a PhD researcher in computer vision and security.
 
 Welcome to my website and blog, where I write about all things computer/data science, astronomy, research, organization & productivity, and more! All opinions are my own. 
 
+In my PhD research, I'm researching computer vision security by trying to answer the question "Can we make secure computer vision systems?". And by secure, I mean robust, trustworthy, explainable, and maybe even provable. My long-term goal is to use the technical skills I'm learning through my computer vision security research, and apply it in the space domain.
+
 I previously worked full-time as a data scientist at Institute for Defense Analyses. I earned my MS in Data Science from [Pace University](https://www.pace.edu/) in 2023, and my BSc in Astrophysics from [University of Canterbury](https://www.canterbury.ac.nz/) in New Zealand in 2021.
