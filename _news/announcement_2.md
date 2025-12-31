@@ -10,12 +10,10 @@ I recently participated in my university’s [College of Engineering Annual Post
 
 ---
 
-Blog post: https://www.aayushiverma.com/what-i-learned-from-my-first-poster-competition/
+Blog post: [https://awesomecosmos.github.io/blog/2025/first-poster-comp/](https://awesomecosmos.github.io/blog/2025/first-poster-comp/)
 
 #### Coverage
 
-<ul>
-    <li>https://grad.engineering.uconn.edu/coe-poster-competition/</li>
-    <li>https://dailycampus.com/2025/03/11/college-of-engineering-hosts-poster-competition/</li>
-    <li>https://today.uconn.edu/2025/03/college-of-engineering-hosts-11th-annual-poster-competition/</li>
-</ul>
+- [https://grad.engineering.uconn.edu/coe-poster-competition/](https://grad.engineering.uconn.edu/coe-poster-competition/)
+- [https://dailycampus.com/2025/03/11/college-of-engineering-hosts-poster-competition/](https://dailycampus.com/2025/03/11/college-of-engineering-hosts-poster-competition/)
+- [https://today.uconn.edu/2025/03/college-of-engineering-hosts-11th-annual-poster-competition/](https://today.uconn.edu/2025/03/college-of-engineering-hosts-11th-annual-poster-competition/)

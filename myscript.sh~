@@ -1,0 +1,4 @@
+echo "Script to make a .md file for blogpost and its associated asset/img dir."
+read -p 'Enter filename: ' name
+touch _posts/$name.md
+mkdir assets/img/$name
