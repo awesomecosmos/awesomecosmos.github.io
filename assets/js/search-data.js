@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "talks and posters in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks.html";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "Find my CV here - click the pdf icon to the right!",
@@ -30,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-what-i-learned-from-my-first-poster-competition",
+        },{id: "post-on-attending-machine-learning-summer-school",
+        
+          title: "On Attending Machine Learning Summer School",
+        
+        description: "In the last 2 weeks, I attended Machine Learning Summer School (MLSS), hosted by Columbia University&#39;s Center for Financial Engineering and sponsored by Bloomberg. Having just finished the second year of my PhD, this was a fantastic opportunity for me to learn about the broader scope of modern machine learning and meet other PhD students in the field. In this blog post, I&#39;ll share some of my key learnings and experiences!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/mlss/";
+          
+        },
+      },{id: "post-what-i-learned-from-my-first-poster-competition",
         
           title: "What I Learned From My First Poster Competition",
         
@@ -215,6 +233,116 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2019/moon-features/";
+          
+        },
+      },{id: "post-a-discussion-on-scientific-research-by-nobel-laureates",
+        
+          title: "A Discussion on Scientific Research by Nobel Laureates",
+        
+        description: "Today I attended a fascinating event called “Failure, Persistence and Joy; Finding the Right Balance for Research Success”, hosted by the Nobel Prize Inspiration Initiative in Kingston, Ontario.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/nobel-laureates/";
+          
+        },
+      },{id: "post-wonders-of-the-winter-sky-this-month-july",
+        
+          title: "Wonders of the Winter Sky This Month - July",
+        
+        description: "As we move on from the Winter Solstice in the Southern Hemisphere, we say farewell to some constellations and welcome others. Read on to find out what celestial objects you can observe this month in New Zealand!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2019/night-sky-jul2019/";
+          
+        },
+      },{id: "post-insert-title",
+        
+          title: "INSERT_TITLE",
+        
+        description: "INSERT_DISPLAY_DESC",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/night-sky-may2019/";
+          
+        },
+      },{id: "post-insert-title",
+        
+          title: "INSERT_TITLE",
+        
+        description: "INSERT_DISPLAY_DESC",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/yuri-gagarin/";
+          
+        },
+      },{id: "post-insert-title",
+        
+          title: "INSERT_TITLE",
+        
+        description: "INSERT_DISPLAY_DESC",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/ngc4755-jewelbox/";
+          
+        },
+      },{id: "post-insert-title",
+        
+          title: "INSERT_TITLE",
+        
+        description: "INSERT_DISPLAY_DESC",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/karen-pollard/";
+          
+        },
+      },{id: "post-insert-title",
+        
+          title: "INSERT_TITLE",
+        
+        description: "INSERT_DISPLAY_DESC",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/m42-orion-nebula/";
+          
+        },
+      },{id: "post-insert-title",
+        
+          title: "INSERT_TITLE",
+        
+        description: "INSERT_DISPLAY_DESC",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/beatrice-tinsley/";
+          
+        },
+      },{id: "post-insert-title",
+        
+          title: "INSERT_TITLE",
+        
+        description: "INSERT_DISPLAY_DESC",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/comet46p/";
+          
+        },
+      },{id: "post-insert-title",
+        
+          title: "INSERT_TITLE",
+        
+        description: "INSERT_DISPLAY_DESC",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2000/the-journey-begins/";
           
         },
       },{id: "books-the-godfather",
