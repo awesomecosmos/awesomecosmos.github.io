@@ -6,7 +6,7 @@ description: A few days ago, I was pondering whether the (metaphorical) glass is
 thumbnail: assets/img/2025-02-28-postive-thinking/stock_half_full_or_empty_glass.jpeg
 tags: 
 categories: philosophy
-featured: true
+featured: false
 ---
 
 A few days ago, I was pondering whether the (metaphorical) glass is half-empty, or full.
