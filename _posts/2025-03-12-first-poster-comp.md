@@ -6,7 +6,7 @@ description: I recently participated in my university's College of Engineering A
 thumbnail: assets/img/2025-03-15-poster-comp/IMG_6507.jpg
 tags: data-visualization
 categories: science-communication
-featured: true
+featured: false
 toc:
   sidebar: right
 ---

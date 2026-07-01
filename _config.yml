@@ -257,7 +257,7 @@ jekyll-archives:
 # these categories will be displayed on the front page of your blog
 display_categories: ["astronomy-space","computer-science","data-science", "science-communication","travel"] 
 # these tags will be displayed on the front page of your blog
-display_tags: ["conferences", "data-visualization", "philosophy"] 
+display_tags: ["conferences", "data-visualization", "philosophy","awesome-humans"] 
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
