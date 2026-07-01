@@ -7,6 +7,8 @@ thumbnail: assets/img/2024-04-04-solar-eclipse/IMG_9526.jpg
 tags: 
 categories: astronomy-space travel science-communication
 featured: false
+toc:
+  sidebar: right
 ---
 
 On Monday 8th April, 2024, I witnessed an incredible thing: a total solar eclipse. There are no words for this experience, and yet in this article, I’ll find them and describe just how amazing it was! I also recorded a [vlog](https://www.youtube.com/watch?v=UbGUfmDSVyg&feature=youtu.be) narrating my live experiences watching the solar eclipse!

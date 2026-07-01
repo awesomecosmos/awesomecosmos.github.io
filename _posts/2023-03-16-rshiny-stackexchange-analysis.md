@@ -7,6 +7,8 @@ thumbnail: assets/img/2023-03-16-rshiny-stackexchange-analysis/1.png
 tags: data-visualization
 categories: data-science
 featured: false
+toc:
+  sidebar: right
 ---
 
 Stack Overflow is one of the most well-known websites for coders. It is a community-driven forum for asking and answering questions about coding, programming, software engineering, etc. The [Stack Overflow](https://stackoverflow.com/) website is just one community out of many, all of which are hosted by the [Stack Exchange network](https://stackexchange.com/).

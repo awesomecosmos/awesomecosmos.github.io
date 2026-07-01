@@ -7,6 +7,8 @@ thumbnail: assets/img/2024-06-30-exploring-old-town-alexandria/thumbnail_prep.jp
 tags: 
 categories: travel
 featured: false
+toc:
+  sidebar: right
 ---
 
 I recently [made a vlog](https://www.youtube.com/watch?v=lZbwKWJy8no&feature=youtu.be) about my day out in Old Town, Alexandria, Virginia. Having spent almost two years living in Alexandria, I am quite familiar with Old Town and its historic charm. In this article, I go into more detail about Old Town, and the places I visited in my vlog, in order!

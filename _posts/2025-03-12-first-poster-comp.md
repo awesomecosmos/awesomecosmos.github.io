@@ -7,6 +7,8 @@ thumbnail: assets/img/2025-03-15-poster-comp/IMG_6507.jpg
 tags: data-visualization
 categories: science-communication
 featured: true
+toc:
+  sidebar: right
 ---
 
 I recently participated in my [university’s College of Engineering Annual Poster Competition](https://dailycampus.com/2025/03/11/college-of-engineering-hosts-poster-competition/), and won 1st place for my department (Department of Computer Science and Engineering)! This poster competition is for graduate students (Master’s and PhD) to showcase our research in a visually-compelling manner, and present it in 3 minutes or less to faculty judges outside our departments. I had a fantastic time presenting my poster, and learning from other participants. Here’s what I learned from this amazing experience!

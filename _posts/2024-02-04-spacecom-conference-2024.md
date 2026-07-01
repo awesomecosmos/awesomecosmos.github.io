@@ -7,6 +7,8 @@ thumbnail: assets/img/2024-02-04-spacecom-conference-2024/4.jpg
 tags: conferences
 categories: astronomy-space travel
 featured: false
+toc:
+  sidebar: right
 ---
 
 Last week, I attended the [SpaceCom Expo and Conference](https://www.spacecomexpo.com/) in Orlando, Florida. In this article, I talk about the conference, my experiences, and some other fun things I did in Florida!

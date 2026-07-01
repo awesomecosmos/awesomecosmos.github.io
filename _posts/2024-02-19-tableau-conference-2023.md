@@ -7,6 +7,8 @@ thumbnail: assets/img/2024-02-19-tableau-conference-2023/love_data.png
 tags: conferences data-visualization
 categories: data-science travel
 featured: false
+toc:
+  sidebar: right
 ---
 
 As a data scientist, I use [Tableau](https://www.tableau.com/) a lot to make interactive dashboards for my business stakeholders to consume key insights. I realized that while I use Tableau a lot, there’s still a lot for me to learn — and what’s a better way to learn than attending a conference about it? In this article, I describe my experience attending the 2023 [Tableau Conference](https://www.salesforce.com/tableau-conference/) in Las Vegas!
