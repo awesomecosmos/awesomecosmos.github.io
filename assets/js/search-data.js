@@ -257,92 +257,92 @@ ninja.data = [{
             window.location.href = "/blog/2019/night-sky-jul2019/";
           
         },
-      },{id: "post-insert-title",
+      },{id: "post-wonders-of-the-winter-sky-this-month-may",
         
-          title: "INSERT_TITLE",
+          title: "Wonders of the Winter Sky This Month - May",
         
-        description: "INSERT_DISPLAY_DESC",
+        description: "As we approach winter in the Southern Hemisphere, we say farewell to some constellations and welcome others. Read on to find out what celestial objects you can observe this month in New Zealand!",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2000/night-sky-may2019/";
+            window.location.href = "/blog/2019/night-sky-may2019/";
           
         },
-      },{id: "post-insert-title",
+      },{id: "post-yuri-gagarin-and-his-space-legacy",
         
-          title: "INSERT_TITLE",
+          title: "Yuri Gagarin and his Space Legacy",
         
-        description: "INSERT_DISPLAY_DESC",
+        description: "This article has been written in honour of Yuri’s Night, celebrated worldwide every year on the 12th of April. Read on to learn more!",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2000/yuri-gagarin/";
+            window.location.href = "/blog/2019/yuri-gagarin/";
           
         },
-      },{id: "post-insert-title",
+      },{id: "post-ngc-4755-the-jewel-box-cluster",
         
-          title: "INSERT_TITLE",
+          title: "NGC 4755, The Jewel Box Cluster",
         
-        description: "INSERT_DISPLAY_DESC",
+        description: "NGC 4755, or the Jewel Box Cluster, is an open cluster of stars visible only in the southern hemisphere in the constellation Crux, ‘The Southern Cross’. It is a beauty to observe and many are fascinated by its striking resemblance to its name.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2000/ngc4755-jewelbox/";
+            window.location.href = "/blog/2019/ngc4755-jewelbox/";
           
         },
-      },{id: "post-insert-title",
+      },{id: "post-karen-pollard-and-the-music-of-the-stars",
         
-          title: "INSERT_TITLE",
+          title: "Karen Pollard and the Music of the Stars",
         
-        description: "INSERT_DISPLAY_DESC",
+        description: "This is the second article in my series of ‘Women in Astronomy’ article series, in honour of the International Astronomical Union’s Women and Girls in Astronomy month (February).",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2000/karen-pollard/";
+            window.location.href = "/blog/2019/karen-pollard/";
           
         },
-      },{id: "post-insert-title",
+      },{id: "post-m42-the-orion-nebula",
         
-          title: "INSERT_TITLE",
+          title: "M42, The Orion Nebula",
         
-        description: "INSERT_DISPLAY_DESC",
+        description: "The Orion Nebula, or M42, or NGC 1976, is one of the most prominent nebulae, visible to both the northern and southern hemispheres in the easily-recognised constellation, Orion. It is stunning, and truly a delight to gaze at, whether through binoculars, telescopes, or even images on the internet.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2000/m42-orion-nebula/";
+            window.location.href = "/blog/2019/m42-orion-nebula/";
           
         },
-      },{id: "post-insert-title",
+      },{id: "post-beatrice-tinsley-a-very-luminous-star",
         
-          title: "INSERT_TITLE",
+          title: "Beatrice Tinsley, A Very Luminous Star",
         
-        description: "INSERT_DISPLAY_DESC",
+        description: "This is the first article in my series of ‘Women in Astronomy’ article series, in honour of the International Astronomical Union’s Women and Girls in Astronomy month (February).",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2000/beatrice-tinsley/";
+            window.location.href = "/blog/2019/beatrice-tinsley/";
           
         },
-      },{id: "post-insert-title",
+      },{id: "post-comet-46p-wirtanen",
         
-          title: "INSERT_TITLE",
+          title: "Comet 46P/Wirtanen",
         
-        description: "INSERT_DISPLAY_DESC",
+        description: "Recently this comet, also known as the ‘Christmas Comet’, paid another visit for Earthlings to glimpse this very bright object in the northern skies.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2000/comet46p/";
+            window.location.href = "/blog/2019/comet46p/";
           
         },
-      },{id: "post-insert-title",
+      },{id: "post-the-journey-begins",
         
-          title: "INSERT_TITLE",
+          title: "The Journey Begins",
         
-        description: "INSERT_DISPLAY_DESC",
+        description: "Thanks for joining me! I am a university student studying astrophysics. Astronomy and physics are something I’ve always been so passionate about. I want to share my love of the cosmos with you. I write articles about various topics in science which fascinate me. I hope you like it!",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2000/the-journey-begins/";
+            window.location.href = "/blog/2019/the-journey-begins/";
           
         },
       },{id: "books-the-godfather",
@@ -366,7 +366,7 @@ ninja.data = [{
             },},{id: "news-featured-in-uconn-enhance-career-readiness-blog",
           title: 'Featured in UConn Enhance Career Readiness blog!',
           description: "",
-          section: "News",},{id: "news-selected-to-attend-machine-learning-summer-school-hosted-by-center-for-financial-engineering-columbia-university",
+          section: "News",},{id: "news-selected-to-attend-machine-learning-summer-school-hosted-by-center-for-financial-engineering-columbia-university-see-blogpost",
           title: 'Selected to attend Machine Learning Summer School, hosted by Center for Financial Engineering...',
           description: "",
           section: "News",},{id: "projects-project-1",
