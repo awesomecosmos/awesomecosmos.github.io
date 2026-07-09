@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 ## Presentations 
-- March 2026. [New England Security Day (NESD)](https://nesd.cs.umass.edu/) @ UMass. [[slides](assets/pdf/2026-03-NESD.pdf)].
+- March 2026. [New England Security Day (NESD)](https://nesd.cs.umass.edu/) @ UMass Amherst. [[slides](assets/pdf/2026-03-NESD.pdf)], [[video](https://youtu.be/Ls4qSbgYgnI)].
 - October 2025. [ACM CCS](https://www.sigsac.org/ccs/CCS2025/) @ Taiwan. [[slides](assets/pdf/2025-10-CCS.pdf)], [[video](https://youtu.be/na3Ad9Ld3l8?si=g7mzHkQJhQOcsZuz)].
 
 ## Posters
