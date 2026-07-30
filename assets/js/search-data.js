@@ -366,7 +366,7 @@ ninja.data = [{
             },},{id: "news-featured-in-uconn-enhance-career-readiness-blog",
           title: 'Featured in UConn Enhance Career Readiness blog!',
           description: "",
-          section: "News",},{id: "news-selected-to-attend-machine-learning-summer-school-hosted-by-center-for-financial-engineering-columbia-university-see-blogpost",
+          section: "News",},{id: "news-selected-to-attend-machine-learning-summer-school-hosted-by-center-for-financial-engineering-columbia-university-see-blogpost-see-linkedin-post-by-uconn-graduate-programs-highlighting-my-experiences",
           title: 'Selected to attend Machine Learning Summer School, hosted by Center for Financial Engineering...',
           description: "",
           section: "News",},{id: "projects-project-1",
