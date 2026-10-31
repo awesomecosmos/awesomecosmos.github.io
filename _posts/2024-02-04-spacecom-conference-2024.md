@@ -221,7 +221,7 @@ Universal Studios isn’t the only fun thing I did in Florida, I also visited th
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/12.jpg.jpeg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2024-02-04-spacecom-conference-2024/12.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
