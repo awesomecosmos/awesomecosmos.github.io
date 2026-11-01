@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-on-attending-machine-learning-summer-school",
+        },{id: "post-my-halloween-costume",
+        
+          title: "My Halloween Costume!",
+        
+        description: "This Halloween, inspiration struck me and I decided to make my own AI-inspired costume (which doubles as a meta-commentary on AI).",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/halloween-costume/";
+          
+        },
+      },{id: "post-on-attending-machine-learning-summer-school",
         
           title: "On Attending Machine Learning Summer School",
         
